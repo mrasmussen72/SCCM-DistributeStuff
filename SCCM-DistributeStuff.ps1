@@ -1,8 +1,3 @@
-﻿#
-# Press 'F5' to run this script. Running this script will load the ConfigurationManager
-# module for Windows PowerShell and will connect to the site.
-#
-# This script was auto-generated at '9/18/2018 1:05:52 PM'.
 
 # Uncomment the line below if running in an environment where script signing is 
 # required.
