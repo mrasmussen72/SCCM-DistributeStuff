@@ -10,10 +10,10 @@
 
 ######################################## Script Variables ########################
 
-$dpGroup = "AllDPs" # DP group name
-$SiteCode = "MS1" # Site code
-$LogFilePath = "c:\Windows\CCM\Logs\DistributeStuff.Log" # path to log file
-$ProviderMachineName = "MSACCT-SCCM.MSACCTCloud.Local" # SMS Provider machine name
+$dpGroup = 				"" # DP group name
+$SiteCode = 				"" # Site code
+$LogFilePath = 				"" # path to log file
+$ProviderMachineName = 			"" # SMS Provider machine name
 
 ####################################### End Script Variables #####################
 
